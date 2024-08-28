@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Resume/static/css/main.452e44fd.css",
+    "main.js": "/Resume/static/js/main.8e265387.js",
+    "static/js/453.bb828c5d.chunk.js": "/Resume/static/js/453.bb828c5d.chunk.js",
+    "static/media/Coursera_1.jpg": "/Resume/static/media/Coursera_1.9f3f5816427764264bbc.jpg",
+    "static/media/Coursera_6.jpg": "/Resume/static/media/Coursera_6.79bd8f987e98060f3796.jpg",
+    "static/media/Coursera_2.jpg": "/Resume/static/media/Coursera_2.2d6b24134a8d3015bc31.jpg",
+    "static/media/Coursera_5.jpg": "/Resume/static/media/Coursera_5.2711f5e70fb8105057fc.jpg",
+    "static/media/Coursera_4.jpg": "/Resume/static/media/Coursera_4.a2f56d7491d68de8dd6f.jpg",
+    "static/media/Coursera_7.jpg": "/Resume/static/media/Coursera_7.4172c53a8340dbf9378a.jpg",
+    "static/media/Coursera_3.jpg": "/Resume/static/media/Coursera_3.56918311c5c9824e1413.jpg",
+    "static/media/kaggle.png": "/Resume/static/media/kaggle.eb27712f2666a24ea06f.png",
+    "static/media/AnshDabral_resume.pdf": "/Resume/static/media/AnshDabral_resume.d92b593d655b5a052b1b.pdf",
+    "static/media/up.png": "/Resume/static/media/up.ece531780224d239c3c8.png",
+    "static/media/down.png": "/Resume/static/media/down.64a22d0acffdb68c28cb.png",
+    "static/media/github.png": "/Resume/static/media/github.af4333220b87ebcac64e.png",
+    "index.html": "/Resume/index.html",
+    "main.452e44fd.css.map": "/Resume/static/css/main.452e44fd.css.map",
+    "main.8e265387.js.map": "/Resume/static/js/main.8e265387.js.map",
+    "453.bb828c5d.chunk.js.map": "/Resume/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.452e44fd.css",
+    "static/js/main.8e265387.js"
+  ]
+}
