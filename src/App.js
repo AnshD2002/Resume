@@ -73,8 +73,10 @@ function Skill() {
   const [activeSkill, setActiveSkill] = useState('technical');
 
   return (
+    <div>
+    <h1 className='skill-head'>Skills</h1>
     <div className="skill-container">
-      <div className='skill-head'>Skills</div>
+      
       <div className='skill-buttons'>
         <button className='skill-btn' onClick={() => setActiveSkill('technical')}>
           Technical Skills
@@ -102,6 +104,7 @@ function Skill() {
               </li>
             </ul>
           </div>
+          
         )}
         {activeSkill === 'interpersonal' && (
           <div className='text-start '>
@@ -119,6 +122,7 @@ function Skill() {
           </div>
         )}
       </div>
+    </div>
     </div>
   );
 }
@@ -176,12 +180,12 @@ function Projects() {
 
   return (
     <div className="Project-main border-black border-y-2">
-      <h1 className="text-5xl font-bold mt-9 mb-6 text-center">My GitHub Projects</h1>
+      <h1 className="text-5xl font-bold  m-8 mt-4 mb-5 text-center bg-cyan-200 rounded-3xl ;">My GitHub Projects</h1>
       <div className="projects-container ml-5 mr-5 grid grid-cols-1 sm:grid-cols-2 gap-8">
         {visibleProjects.map((project, index) => (
           <div
             key={index}
-            className="project border p-4 rounded-lg shadow-md hover:-mt-4 hover:bg-gray-200 transition-all duration-300"
+            className="project bg-slate-200 border p-4 rounded-lg shadow-md hover:-mt-4 hover:bg-gray-400 transition-all duration-300"
           >
             <h2 className="text-2xl font-semibold mb-2">{project.title}</h2>
             <p className="mb-2">{project.description}</p>
@@ -243,7 +247,7 @@ function Certificates() {
   return (
     <div className='certificates flex flex-col items-center'>
       <div className='certificates-head mb-4'>
-        <h2 className="text-5xl font-bold text-center">Certificates</h2>
+        <h1 className="text-5xl font-bold  m-8 mt-0 mb-5 text-center bg-cyan-200 rounded-3xl ">Certificates</h1>
       </div>
       <div className='flex flex-wrap justify-center mb-4'>
         {visibleCertificates.map((cert, index) => (

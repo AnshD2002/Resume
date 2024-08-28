@@ -58,7 +58,7 @@
 /*About section*/
 
 .about {
-  @apply text-5xl font-bold mt-4 mb-5 text-center;
+  @apply text-5xl font-bold mt-4 mb-5 text-center bg-cyan-200 rounded-3xl;
 }
 .about p{
   @apply text-5xl font-bold mt-4 mb-5 text-center;
@@ -67,11 +67,11 @@
 /*Skill section*/
 
 .skill-head {
-  @apply text-5xl font-bold mt-4 ;
+  @apply text-5xl font-bold  m-8 mt-4 mb-5 text-center bg-cyan-200 rounded-3xl ;
 }
 
 .skill-container {
-  @apply flex flex-col items-center mt-4 mb-6 select-none;
+  @apply flex flex-col items-center mt-4 mb-6 select-none ;
   animation: slide-in 1s ease-in-out;
 
 }
