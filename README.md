@@ -1,6 +1,7 @@
-["Link"]{https://anshd2002.github.io/Resume/}
+[Resume Link](https://anshd2002.github.io/Resume/)
 
 
+[Screencast from 08-28-2024 11:56:31 PM.webm](https://github.com/user-attachments/assets/ef9367c8-6fa9-4d53-8561-c17a36ec4829)
 
 
 
