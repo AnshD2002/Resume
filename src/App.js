@@ -137,7 +137,7 @@ function Projects() {
       description: 'A personal resume website built with Reactjs',
       languages: 'HTML, CSS, JavaScript, Tailwind',
       date: '2024-05-20',
-      repo: 'https://github.com/AnshD2002/Resume_website',
+      repo: 'https://github.com/AnshD2002/Resume',
     },
     {
       title: 'Potato Disease',
